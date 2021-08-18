@@ -29,4 +29,7 @@ make prev = cur
 make cur = next (which was stored earlier)
 
 finally point the head to the prev
+
+Time complexity: O(n)
+Space complexity: O(1)
 """
